@@ -1,6 +1,6 @@
 {
   "name": "todobru",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scan project for TODOs, FIXMEs, HACKs or whatever",
   "main": "index.js",
   "repository": "https://github.com/tiaanduplessis/todobru",
