@@ -2,7 +2,7 @@ const readDirRecur = require('read-dir-recur')
 
 const parseFlags = require('./parse-flags')
 
-module.exports = function whatTODO (opts = {}) {
+module.exports = function todobru (opts = {}) {
   const { ignore, base, pattern, flags } = opts
 
   const dirs = readDirRecur({ readFile: true, pattern, ignore, base })

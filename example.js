@@ -1,6 +1,6 @@
-const whatTODO = require('./')
+const todobru = require('./')
 
-console.log(whatTODO())
+console.log(todobru())
 
 // [ [ { base: '/Users/tiaan/code/todobru',
 //       name: 'parse-flags.js',
